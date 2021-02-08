@@ -1,5 +1,5 @@
 ### Hi,im diaa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)] vist my linked in (https://www.linkedin.com/in/diaa-el-din-atya-73922654/)
+
 ## Your short description
 - 🔭 I’m currently working on - Bee3 W shra || react-native based  online market platform
 - 🌱 I’m currently learning - Automata theory
