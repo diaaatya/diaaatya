@@ -1,6 +1,7 @@
 ### Hi,im diaa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ## MY STATUS
 <code><img height="50" src="https://icons.iconarchive.com/icons/chrisbanks2/cold-fusion-hd/72/assassins-creed-icon.png"></code>
+Nothing is true, Everything is permittedNothing is true, Everything is permitted
 
 - 🔭 I’m currently working on - Bee3 W shra || react-native based  online market platform
 - 🌱 I’m currently learning - Automata theory
