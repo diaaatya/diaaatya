@@ -1,7 +1,7 @@
 ### Hi,im diaa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ## MY STATUS
 
-<code><img src="https://github.com/diaaatya/MONEYXBETA/blob/master/monex.jpg"> </code>
+[<code><img src="https://github.com/diaaatya/MONEYXBETA/blob/master/monex.jpg"> </code>][linkedin]
 
 
 <code><img height="50" src="https://icons.iconarchive.com/icons/chrisbanks2/cold-fusion-hd/72/assassins-creed-icon.png"></code>
