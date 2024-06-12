@@ -1,67 +1,23 @@
-### Hi there, I'm Diaa! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hey there! I'm [Diaa atya] 👋
 
-<code><img height="50" src="https://icons.iconarchive.com/icons/chrisbanks2/cold-fusion-hd/72/assassins-creed-icon.png"></code>
+## About Me
+I'm a versatile software developer with over 10 years of experience, specializing in a variety of domains. My journey began with a passion for coding, and over the years, I've honed my skills across multiple platforms and technologies. From crafting full-stack web applications to developing sleek Android apps and robust desktop solutions, I thrive on bringing ideas to life through code.
 
-**"Nothing is true, Everything is permitted"**
+## Skills
+### Full-stack Web Development
+Fluent in web technologies such as HTML, CSS, and JavaScript, I have a keen eye for design and user experience. Whether it's building responsive layouts, implementing complex functionality, or optimizing performance, I love the challenge of creating engaging web applications.
 
-- 👯 I’m looking to collaborate with - Everyone
+### Android App Development
+As an Android enthusiast, I'm dedicated to creating intuitive and user-friendly mobile experiences. From concept to deployment, I enjoy the entire app development lifecycle, including UI/UX design, backend integration, and testing across multiple devices.
 
-**Languages and Tools:**  
+### Desktop App Development
+Proficient in C# and Python, I specialize in building powerful desktop applications that leverage the full potential of the platform. Whether it's developing standalone tools, productivity apps, or enterprise solutions, I'm committed to delivering high-quality software tailored to the user's needs.
 
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/androidstudio.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/react.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/html5.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/css3.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/javascript.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/sublimetext.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/pycharm.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/vmware.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hexo/hexo-original.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg"></code>
+### Data Analysis
+I'm skilled in extracting insights from complex datasets to drive informed decisions. From data collection and preprocessing to analysis and visualization, I have experience with a variety of tools and techniques to uncover meaningful patterns and trends.
 
-**Technologies being learned**
+## Interests
+I'm constantly exploring new technologies and methodologies to stay ahead of the curve. Whether it's diving into the latest frameworks, experimenting with cutting-edge tools, or staying updated on industry trends, I love pushing the boundaries of what's possible in software development. Outside of coding, I enjoy sharing my knowledge and experiences with others through writing, speaking, and mentoring.
 
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linux.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/vim.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/django.svg"></code>
-<code><img height="20" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/jquery.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/typescript.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></code>
-
-**Design Tools**
-
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/adobeillustrator.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/adobephotoshop.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/adobeaudition.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/blender.svg"></code>
-
-**Favorite sites**
-
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/github.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/google.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackoverflow.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/youtube.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/steam.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/freecodecamp.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/w3c.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackoverflow.svg"></code>
-
-[![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=diaaatya&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
-
-## Connect with me:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
-<!-- Optional if you have blogs -->
-## Latest blog posts:
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-<!-- This section you create this variables that are used above -->
-
-[twitter]: https://twitter.com/diaaatya2
-[linkedin]: https://www.linkedin.com/in/diaa-el-din-atya-73922654/
+## Let's Connect!
+🌟 Interested in collaborating on innovative projects, discussing new ideas, or just geeking out about technology? Feel free to reach out! Let's connect and create something amazing together!
