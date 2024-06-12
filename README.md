@@ -1,4 +1,4 @@
-# Hey there! I'm [Diaa atya] 👋
+# Hey there! I'm Diaa atya 👋
 
 ## About Me
 I'm a versatile software developer with over 10 years of experience, specializing in a variety of domains. My journey began with a passion for coding, and over the years, I've honed my skills across multiple platforms and technologies. From crafting full-stack web applications to developing sleek Android apps and robust desktop solutions, I thrive on bringing ideas to life through code.
